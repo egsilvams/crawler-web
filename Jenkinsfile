@@ -8,12 +8,6 @@ pipeline {
     }
 
     stages {
-        stage('Clonar Projeto') {
-            steps {
-                git 'https://github.com/egsilvams/crawler-web.git'
-            }
-        }
-
         stage('Build da Imagem Docker') {
             steps {
                 sh "docker build -t $IMAGE_NAME ."
