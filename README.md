@@ -1,7 +1,7 @@
 # 🌐 Crawler Web
 
-![Interface do Crawler Web](![image](https://github.com/user-attachments/assets/2f8621e1-2c74-4645-bfab-26483a38ba3b)
-)
+![Interface do Crawler Web](![image](templates\image.PNG)
+
 
 ## 📌 Descrição
 
