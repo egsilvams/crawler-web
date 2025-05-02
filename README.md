@@ -1,7 +1,7 @@
 # 🌐 Crawler Web
 
 ![Interface do Crawler Web](![image](templates\image.PNG)
-)
+
 
 ## 📌 Descrição
 
