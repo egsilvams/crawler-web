@@ -1,6 +1,7 @@
 # 🌐 Crawler Web
 
-![Interface do Crawler Web](b9d3f227-0ac0-4066-95ee-3e3bf50493fe.png)
+![Interface do Crawler Web](![image](https://github.com/user-attachments/assets/2f8621e1-2c74-4645-bfab-26483a38ba3b)
+)
 
 ## 📌 Descrição
 
@@ -23,20 +24,20 @@ Você pode configurar o número de **clusters** (de 1 a 100) para acelerar a ext
 
 ### 🔹 Clonando o Repositório
 
-git clone https://github.com/egsilvams/crawler-web.git
-cd crawler-web
+ - git clone https://github.com/egsilvams/crawler-web.git
+ - cd crawler-web
 
 ---
 
 ### 🔹 Rodando com Docker
 
  - Build da imagem:
-    docker build -t crawler-web .
+    - docker build -t crawler-web .
 
  - Executando o container:
-    docker run -d -p 5000:5000 --name crawler-web-container crawler-web
+    - docker run -d -p 5000:5000 --name crawler-web-container crawler-web
 
  - Acesse no navegador:
-    http://localhost:5000
+    - http://localhost:5000
 
 ---
